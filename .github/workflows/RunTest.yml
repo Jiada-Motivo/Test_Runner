@@ -1,4 +1,4 @@
-name: Manual StartUT
+name: RunTest
 
 on: 
   workflow_dispatch:
